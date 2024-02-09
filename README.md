@@ -8,6 +8,9 @@ Functionalities:
 - Adding/Removing polygons (triangles)
 - Saving/Opening .obj files
 
+Presentation video:
+https://youtu.be/huEW-iyetq0
+
   
 ![1](https://github.com/NofalJaber/3D-Editor/assets/158154010/0bd9d1ee-d38c-4b5c-8f09-661183e05bfe)
 
@@ -18,7 +21,3 @@ Functionalities:
 ![4](https://github.com/NofalJaber/3D-Editor/assets/158154010/2ce260ca-e7ac-40c3-b9a3-4c41355fa0cd)
 
 ![5](https://github.com/NofalJaber/3D-Editor/assets/158154010/61700a2d-0228-4a46-a266-ec7643c3ab45)
-
-
-Presentation video:
-https://youtu.be/huEW-iyetq0
