@@ -1,5 +1,5 @@
 # 3D-Editor
-3D Editor from scratch made in C++ and using only basic Raylib 2D functions
+3D Editor from scratch made in C++ using only basic Raylib 2D functions
 
 Functionalities:
 - Importing 3D objects
