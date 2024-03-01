@@ -13,7 +13,7 @@ https://youtu.be/huEW-iyetq0
 
 ![3D GIF1](https://github.com/NofalJaber/3D-Editor/assets/158154010/60602fe8-08f8-4b12-bd0f-a3e95a629c85)
 
-![3D GIF2](https://github.com/NofalJaber/3D-Editor/assets/158154010/03b2a4cd-a321-4aaa-a9d6-6ed6db6513bb)
+![3D GIF2](https://github.com/NofalJaber/3D-Editor/assets/158154010/9f92546e-d9f8-425e-8ae5-7b60764e8b39)
 
 ![3D GIF3](https://github.com/NofalJaber/3D-Editor/assets/158154010/92eadb98-af41-4465-8053-7670324c73d9)
 
